@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mcas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_startpage">startpage</string>
+    <string name="twitter_consumer_key">jHgcf1PeOc9URC8cU2EKRWEKE</string>
+    <string name="twitter_consumer_secret">8VqgAYBRvoFog4u29PxQoW22JBrttJBhr5n9E2Ytst71VzNnBQ</string>
+    <string name="title_activity_optionnav">optionnav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

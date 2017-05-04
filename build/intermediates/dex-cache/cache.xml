@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.9.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a7f52baaf852010e82d127aa257c6a710a53fc9a">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-1.9.1_9092060e118f887375e9376e1de72dcc360dc82f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_79eff3ba2c9976d3ebe78b2e4bc5d024f95c0c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_d90510a829e7a20907989f422f60fadc95fa753b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_9f48846601a9008d1e53cae33ef24c788a27a019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.8.0_6385c69ffd8a210d1c4bb5c1896cca9befca8a9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_1180ce04a5d17a91ead07fab34b85e31e31c2917/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_7fd33de7a364b9de154e83e794098e4a42727f9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_2f3fcfe2d719b16781cb3bffaaa65abb40a98620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_8a987fd861c81f254fbf4f9ec7994d970e8135cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_b452a8c38558ec1d1467ac65b562fe476924c8ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_562b25b5d3196ee72fdc9fa406b7a6546d7698a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.12.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9de57c4b86386c563a0f399222b891a3258b0549">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-1.12.1_6e0a4e83dd274f77afd610c8d75e2a0c670d251d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_836d795e8a50222d262bd79119a8bbbaddab6f01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_f16cd65dc78738f349b426ca40151f98f436df3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_acd8676cce8dd5c4142b7f5cf1daf347c76ffc6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_9f87a9a0a0f1f006021269a4777674625a46d1b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-1.0.3_6e5a74ba134f30c06d55678528267bd0c575846f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/1.3.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="febdca0af7e75d9e2d621fd99be05dfbfd2667ed">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-1.3.3_95af0484cc630991c1b690c33ca661aeb18edefb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_2d6aced5ad61788ccf12f6245d5f1f0f3e624700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_49e94b8c167e7f29320a8bc1d9681c8c93a65813/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_fba7ee0f4ec5e59d1ec2c306d498243b8da170f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d40fb910039f64e64a76e5037f839b2a5ab40ce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_a6762447b42947bd354c3401872f8883b01553fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_211a394e1f5190e45e26e03d44211d094b9796bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_870cd7da26df521fb203f33c092b1da8dbec9bde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_c9d13a25081b86d54d19e3c7b5835294b972125f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_97b280ab0bd68a13aed78c082d2a6e00b8563c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d4fcabffa4ecb164d12a921d7e14bf48c72a42da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc58d5c19c52fcf7b4f525ec6aa9e54b3872aa1b">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77124655da0bd65fdca7889ba5aa5bd25c29c300/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_ce7e50debc654e01e828e1fb01a094fdb7fda903/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.10_284d44e8d887263dfa5e25b55e419ee61f1887a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_2d58ed9fe98f1dcd7ec05fdf2742136146dc8ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_08abd3ea1083c40058b2f40385da1a5d2bff1bf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_cdad58a307fb47dae9d63332ba7f089afa510f17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_c122c3f150efa0e28fad52dffb38f0f74f9cbef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_4c2434402ede42a5d07884a552ffcb7ea9905cc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_0c072470926bbaa5bf1de7124d41654b89b06330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_b7df2e51a266d30df67ca7bcf2a95b5cb7aeebf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_fdc6016e16b71edd665c86f147b948be36070c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_e70878c2fc98a8d9b7dd810e44b75c013790bc0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9d32e19bc8df0283eaf1e0467da52f743c940a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_1c3cc3c6111bb2d140c69491bde2abe2703b8bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_9752e3c5874fc4c2cff57f4eadebaed203ab4839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.0/10924c16dba25791695468206d4bd9428d7fe8ae/okhttp-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="10924c16dba25791695468206d4bd9428d7fe8ae">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.0_d6ba7930ffa74377e0c4223713e9a9dd1816fcb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_750fd7e9c7148c4b9256f6be0e5e879d4ad34b5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_e4cdd21c79a54dd55862bef0c4b62e1cd384b947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_bda90840bf1a2bb16258e408e344b0a60d26a0ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_07f13a5a31bd36cc3d386192f1a8c54cf332740d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_ba5dd53d549d02e3e18f37715150827434e410c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_0538dc70b04b0c25541da1485c6719547375d4ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_837a4e6213fae28ab732db67f9c187a9b6428144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_433557b76c0767337621fe11b51f0e4ea2255eb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="61807f257226cc1e6e2774d1e7a876260a808038">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-1.6.4_4088ebb64edf40603cebe3a577cf98b5e5e9dee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_1d3a7d4e03fb0d1a1a2033dd8e4383c292f155b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_e657d498fe073bfdaa1126109e8b8a70d9fa8a34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_3696cb1aa810f751682fce1b69f5640702e98600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_22fc288b6630b5f67d18302e13535e25292b8865/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_be5be50f2915fe2ed9ddfe527a47cbe09d23ab16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_6019c226bd85020fc3763a64696483c51d8a7f54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="56d11a43eff3435c011a797ceb8828ec8446ac7c">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38e1e7b677d42b026d330a1fcd9dc20d957783f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_2e38fee16e5f5843fee01999bd7d495c1f5be8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990cba7dbe7fc91e1082a9a8ea6d663c0741a0f1">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.digits.sdk.android-digits-1.9.3_af7024528d8d0908cbd409af44c4afbfdf129fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_cd8c06d06a3a430131beaf225b780c3b0c9a4bd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_fe9bc2b4cfe91ff81542fedafb7c74b3cb5b2dc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_5cb940a2402eef8be3fb7fb5896775c778d02c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.0/4ff6c33c920a399e4669cb0edd6668ef6dbe4988/MPAndroidChart-v2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ff6c33c920a399e4669cb0edd6668ef6dbe4988">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.1.0_535e8159f3958781943bc73a0dee4e60037f59ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_9ec2d179afba9f1d22a4d11e3d13a86f5e2c230f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_f8e06f5bca07ffddc11d57e07e9d50bc51828c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_47416a073ed8a85cfa1f25ce1d7bace3a00fd2e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_6f0347acebe09177caf18cba25d5ba79abce6145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_01dc7b38d441059793297c27d72e1f4c823eac9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_5792ffd253ad3813a588f7f5b399fbee4d3b6843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c9ab62439c91eb07e4d26b4e3faea8c884002ae1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.0.0/df8d8e82ac0c52f591280d1b1689e0bf556a9c79/okhttp-urlconnection-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df8d8e82ac0c52f591280d1b1689e0bf556a9c79">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.0.0_3c770ffceb49b259adac3e11967e2ff7d93251d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_a0082dbba156c87f0a3b33339700dc0d539434c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_6157ba0e3e5b25cd933ee0f4fc68a810290d7201/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_19723ca50dfbc202f32e1154fa91e0a9d5c33521/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_ec6d58c7c2745ba8eeb5cea1fa4c2e385216a6d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_f3ebc1c071228009336b54ab013c1c05a4f2c14a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_fc0a529832417c3cdd26aceff46d503a7b7dd907/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_1e30ba50b66e6074e6b9521c836c3464bc8a5a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_e712521fd7c5f7bc0c2038ee431246b1c061ed22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_e81ada5a93e9f426765eb613e1f745cc3508adc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harishananth/Desktop/maps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/harishananth/Desktop/maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_dc7597f6c49699f71e01c691281df9f230774c60/classes.dex" />
+    </item>
+
+</items>

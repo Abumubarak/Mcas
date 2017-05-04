@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "532574633107",
+    "firebase_url": "https://maas-be6dd.firebaseio.com",
+    "project_id": "maas-be6dd",
+    "storage_bucket": "maas-be6dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532574633107:android:ccb525e3fc13f621",
+        "android_client_info": {
+          "package_name": "rexzen.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532574633107-s2n8soaf5la6cm9bfumoo5vqe5st3kvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsNadBiQmgO0kpGAdllCjnLlUv4Ilajs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

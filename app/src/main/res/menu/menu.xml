@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="harish.tabs.MainActivity">
+
+
+
+    <item
+        android:id="@+id/About"
+        android:orderInCategory="100"
+        android:title="About"
+        android:showAsAction="never">
+    </item>
+
+</menu>

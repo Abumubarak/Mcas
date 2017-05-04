@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:text="name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:id="@+id/devname"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#454444" />
+
+    <TextView
+        android:text="reg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/devname"
+        android:layout_marginTop="15dp"
+        android:id="@+id/reg"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reg"
+        android:layout_alignStart="@+id/reg"
+        android:layout_marginTop="14dp"
+        android:id="@+id/dept" />
+
+    <TextView
+        android:text="clg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dept"
+        android:layout_alignStart="@+id/dept"
+        android:layout_marginTop="12dp"
+        android:id="@+id/clg" />
+</RelativeLayout>

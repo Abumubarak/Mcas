@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/Bottombarone"
+    android:icon="@drawable/ic_favorites"
+    android:title="one"/>
+
+    <item android:id="@+id/Bottombartwo"
+        android:icon="@drawable/ic_friends"
+        android:title="one"/>
+
+    <item android:id="@+id/Bottombarthree"
+        android:icon="@drawable/ic_nearby"
+        android:title="one"/>
+
+    <item android:id="@+id/Bottombarfour"
+        android:icon="@drawable/ic_recents"
+        android:title="one"/>
+
+    <item android:id="@+id/Bottombarfive"
+        android:icon="@drawable/ic_restaurants"
+        android:title="one"/>
+</menu>
